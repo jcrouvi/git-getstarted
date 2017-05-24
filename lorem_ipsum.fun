@@ -8,3 +8,5 @@ Fusce commodo.
 * Integer placerat tristique nisl.
 
 Back to master
+
+A hotfix written in the branch hotfix
