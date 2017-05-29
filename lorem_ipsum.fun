@@ -16,3 +16,5 @@ A test with the new ssh config file
 A second test with the new ssh config file
 
 New username in global gitconfig file
+
+Just a change with commit
