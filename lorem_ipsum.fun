@@ -12,3 +12,5 @@ Back to master
 A hotfix written in the branch hotfix
 
 A test with the new ssh config file
+
+A second test with the new ssh config file
