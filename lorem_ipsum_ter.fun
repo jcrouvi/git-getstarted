@@ -5,4 +5,6 @@
 Conflict resolved: 
   "Back to master" taken from head
   "a change on branch branching" taken from branching
-  
+
+
+To test the stashing (no git add for this file)
