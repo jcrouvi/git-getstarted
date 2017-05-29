@@ -1,2 +1,2 @@
 # git-getstarted
-exploration of Git
+exploration of Git.
